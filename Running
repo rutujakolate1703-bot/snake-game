@@ -1,0 +1,34 @@
+
+---
+
+## 🚀 How to Run Locally
+
+### Option 1: Direct Method
+- Double-click `index.html`
+
+### Option 2: VS Code (Recommended)
+- Install **Live Server**
+- Right-click `index.html`
+- Select **Open with Live Server**
+
+---
+
+## 💡 Future Improvements
+
+- Mobile touch controls 📱
+- Obstacles & levels 🟥
+- Pause / Resume button ⏸
+- Background music 🎶
+- Online leaderboard 🌐
+
+---
+
+## 👩‍💻 Author
+
+**Rutuja Kolate**  
+FSecond Year Engineering Student  
+Aspiring Software Developer  
+
+---
+
+⭐ If you like this project, don’t forget to star the repository!
