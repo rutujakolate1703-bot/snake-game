@@ -38,5 +38,4 @@ The game runs directly in the browser and includes modern features like speed in
 
 ---
 
-## 📂 Project Structure
 
